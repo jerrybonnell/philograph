@@ -1,0 +1,15 @@
+{
+    "num_lines_split": 10,
+    "sliding_window_size": 3,
+    "filter_words": 1, 
+    "svm": {
+        "num_runs": 3
+    },
+    "kmeans": {
+        "n_init": 10,
+        "max_iter": 300,
+        "tol": 1e-4,
+        "num_runs": 1,
+        "k": 5
+    }
+}
