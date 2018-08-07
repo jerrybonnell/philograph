@@ -15,7 +15,7 @@ The directory `research-data` contains results generated from this dataset.
 
 ## Prerequisites
 
-__Disclaimer__: _Philograph works best on macOS and has not been tested 
+__Disclaimer__: Philograph works best on macOS and has not been tested 
 on other operating systems.
 
 * Unix-like operating system (macOS or Linux)
@@ -69,6 +69,9 @@ by editing `settings.json`.
 ## Notes 
 
 Developed as part of the CSC410/CSC411 project course at the University of Miami. 
+
+For further information regarding this project, please contact 
+[Jerry Bonnell](mailto:j.bonnell@miami.edu) . 
 
 
 
