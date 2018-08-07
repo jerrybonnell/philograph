@@ -1,151 +1,151 @@
-Cluster 0 words god821  christ455  great311  hell122  agony103  strong122  sufferings135  wrath131  cup107  divine130  mercy109  men176  may203  glory124  nature135  light124  time156  things182  earnest70  come141  prayer77  many118  sense98  soul108  would171  knowledge77  one151  public61  sinners92  natural73  christs82  spiritual82  gods125  man138  mind88  see119  grace71  authority49  blood74  rods34  upon139  nothing87  pardon44  made91  spirit83  world96  earnestly60  strength67  truth56  reason92  excellency52  us108  yet115  drink73  power69  son54  show65  death80  might110  misery56  word76  shall105  moment45  prayed49  ever77  prayers47  dreadful73  though81  extraordinary48  long41  subject58  thing94  apprehensions27  without96  work59  accept29  view63  done87  obtained46  heart71  government36  human57  wicked46  cries34  apprehension36  must79  much97  said80  day60  never65  rulers29  views26  father59  people52  terrible36  conflict31  body53  mighty30  sweat37  offered44 
+Cluster 0 words: god(821)  christ(455)  great(311)  hell(122)  agony(103)  strong(122)  sufferings(135)  wrath(131)  cup(107)  divine(130)  mercy(109)  men(176)  may(203)  glory(124)  nature(135)  light(124)  time(156)  things(182)  earnest(70)  come(141)  prayer(77)  many(118)  sense(98)  soul(108)  would(171)  knowledge(77)  one(151)  public(61)  sinners(92)  natural(73)  christs(82)  spiritual(82)  gods(125)  man(138)  mind(88)  see(119)  grace(71)  authority(49)  blood(74)  rods(34)  upon(139)  nothing(87)  pardon(44)  made(91)  spirit(83)  world(96)  earnestly(60)  strength(67)  truth(56)  reason(92)  excellency(52)  us(108)  yet(115)  drink(73)  power(69)  son(54)  show(65)  death(80)  might(110)  misery(56)  word(76)  shall(105)  moment(45)  prayed(49)  ever(77)  prayers(47)  dreadful(73)  though(81)  extraordinary(48)  long(41)  subject(58)  thing(94)  apprehensions(27)  without(96)  work(59)  accept(29)  view(63)  done(87)  obtained(46)  heart(71)  government(36)  human(57)  wicked(46)  cries(34)  apprehension(36)  must(79)  much(97)  said(80)  day(60)  never(65)  rulers(29)  views(26)  father(59)  people(52)  terrible(36)  conflict(31)  body(53)  mighty(30)  sweat(37)  offered(44) 
 
-Cluster 1 words live284  way287  god432  sin249  us325  whether208  shall287  would338  another246  day182  men250  neighbors142  duty111  may253  peace126  things250  neighbor100  others186  ought114  one241  much228  take162  upon180  know133  make154  time153  ways101  let136  think109  flatter48  inquire68  go100  man163  many135  peaceably46  see125  persons107  yet139  good120  without132  souls91  great151  must99  depend61  hath93  consent65  though114  death87  neglect58  examine52  world119  dependence59  therefore122  taking67  tomorrow49  practice62  parents40  towards67  evil71  every93  care63  put75  thou62  thing96  right66  doth69  find65  knowledge59  done79  among64  hearts73  hope47  children64  guilty48  word65  say64  cannot73  lives56  might74  rules38  stealing39  behave35  duties37  love72  perhaps32  case57  ill36  pro36  seek36  salvation49  sabbath29  hear43  opportunity43  wrong32  tis44  consider52  concerned41  liberty40  thy50  business47 
+Cluster 1 words: live(284)  way(287)  god(432)  sin(249)  us(325)  whether(208)  shall(287)  would(338)  another(246)  day(182)  men(250)  neighbors(142)  duty(111)  may(253)  peace(126)  things(250)  neighbor(100)  others(186)  ought(114)  one(241)  much(228)  take(162)  upon(180)  know(133)  make(154)  time(153)  ways(101)  let(136)  think(109)  flatter(48)  inquire(68)  go(100)  man(163)  many(135)  peaceably(46)  see(125)  persons(107)  yet(139)  good(120)  without(132)  souls(91)  great(151)  must(99)  depend(61)  hath(93)  consent(65)  though(114)  death(87)  neglect(58)  examine(52)  world(119)  dependence(59)  therefore(122)  taking(67)  tomorrow(49)  practice(62)  parents(40)  towards(67)  evil(71)  every(93)  care(63)  put(75)  thou(62)  thing(96)  right(66)  doth(69)  find(65)  knowledge(59)  done(79)  among(64)  hearts(73)  hope(47)  children(64)  guilty(48)  word(65)  say(64)  cannot(73)  lives(56)  might(74)  rules(38)  stealing(39)  behave(35)  duties(37)  love(72)  perhaps(32)  case(57)  ill(36)  pro(36)  seek(36)  salvation(49)  sabbath(29)  hear(43)  opportunity(43)  wrong(32)  tis(44)  consider(52)  concerned(41)  liberty(40)  thy(50)  business(47) 
 
-Cluster 2 words pleasure146  pleasures97  world206  god264  soul181  man204  shall220  delight75  religion70  happiness80  worth63  great142  may117  worldly59  enjoy60  godly49  us101  excellency46  religious36  men115  excellent58  delights40  life74  good89  wicked52  much96  must73  salvation61  enjoyment40  love66  things98  take66  joy40  upon82  afflictions21  forever45  brings28  sake34  sorrow37  never56  tis40  reason55  care42  end58  would80  one72  enjoys27  misery34  glory46  souls50  see66  enjoyed31  better36  body41  sin47  sight41  nothing51  nature49  yet63  mans31  heaven50  gods55  taken30  understanding32  value26  spiritual33  reward21  sweet23  wisdom23  earthly29  happy24  riches26  trouble23  righteous20  pleasantness15  cannot36  honey9  think42  well32  mind40  little35  let37  friend21  prize15  knowledge27  christ44  true30  without46  beholding20  also44  another35  saints29  profit20  troubles17  made41  come43  faculty18  sweetness15  highest23  face26 
+Cluster 2 words: pleasure(146)  pleasures(97)  world(206)  god(264)  soul(181)  man(204)  shall(220)  delight(75)  religion(70)  happiness(80)  worth(63)  great(142)  may(117)  worldly(59)  enjoy(60)  godly(49)  us(101)  excellency(46)  religious(36)  men(115)  excellent(58)  delights(40)  life(74)  good(89)  wicked(52)  much(96)  must(73)  salvation(61)  enjoyment(40)  love(66)  things(98)  take(66)  joy(40)  upon(82)  afflictions(21)  forever(45)  brings(28)  sake(34)  sorrow(37)  never(56)  tis(40)  reason(55)  care(42)  end(58)  would(80)  one(72)  enjoys(27)  misery(34)  glory(46)  souls(50)  see(66)  enjoyed(31)  better(36)  body(41)  sin(47)  sight(41)  nothing(51)  nature(49)  yet(63)  mans(31)  heaven(50)  gods(55)  taken(30)  understanding(32)  value(26)  spiritual(33)  reward(21)  sweet(23)  wisdom(23)  earthly(29)  happy(24)  riches(26)  trouble(23)  righteous(20)  pleasantness(15)  cannot(36)  honey(9)  think(42)  well(32)  mind(40)  little(35)  let(37)  friend(21)  prize(15)  knowledge(27)  christ(44)  true(30)  without(46)  beholding(20)  also(44)  another(35)  saints(29)  profit(20)  troubles(17)  made(41)  come(43)  faculty(18)  sweetness(15)  highest(23)  face(26) 
 
-Cluster 3 words love481  heaven426  shall369  saints216  god338  christ272  world243  glory170  house83  perfect104  holy108  place82  father87  mansions30  beloved48  earth94  heavenly63  church57  glorious70  others86  state57  angels56  great115  blessed55  temple31  one102  forever55  mansion22  every83  happiness52  built24  abode24  rev41  full57  seat27  may82  fountain32  gods69  room24  kingdom52  see72  many62  throne40  another56  us71  spirit51  light56  perfectly34  things94  joy44  represented28  toward26  infinite36  fathers30  lovely25  head37  heart51  sun30  divine42  much72  honor30  hatred29  enjoyment36  seats15  forth35  degrees18  christs39  disciples28  lamb27  together36  enough24  reign30  said43  souls45  rest30  inhabitants26  sight33  palace17  time58  death39  loved24  different21  kings21  family23  ever41  hearts39  hell31  enjoy34  blessedness28  dwells17  circumstances28  go42  come45  without48  devils18  worship18  seek24  high27  son31  habitation15 
+Cluster 3 words: love(481)  heaven(426)  shall(369)  saints(216)  god(338)  christ(272)  world(243)  glory(170)  house(83)  perfect(104)  holy(108)  place(82)  father(87)  mansions(30)  beloved(48)  earth(94)  heavenly(63)  church(57)  glorious(70)  others(86)  state(57)  angels(56)  great(115)  blessed(55)  temple(31)  one(102)  forever(55)  mansion(22)  every(83)  happiness(52)  built(24)  abode(24)  rev(41)  full(57)  seat(27)  may(82)  fountain(32)  gods(69)  room(24)  kingdom(52)  see(72)  many(62)  throne(40)  another(56)  us(71)  spirit(51)  light(56)  perfectly(34)  things(94)  joy(44)  represented(28)  toward(26)  infinite(36)  fathers(30)  lovely(25)  head(37)  heart(51)  sun(30)  divine(42)  much(72)  honor(30)  hatred(29)  enjoyment(36)  seats(15)  forth(35)  degrees(18)  christs(39)  disciples(28)  lamb(27)  together(36)  enough(24)  reign(30)  said(43)  souls(45)  rest(30)  inhabitants(26)  sight(33)  palace(17)  time(58)  death(39)  loved(24)  different(21)  kings(21)  family(23)  ever(41)  hearts(39)  hell(31)  enjoy(34)  blessedness(28)  dwells(17)  circumstances(28)  go(42)  come(45)  without(48)  devils(18)  worship(18)  seek(24)  high(27)  son(31)  habitation(15) 
 
-Cluster 4 words god540  ordinances102  sin189  pure68  holy101  heart102  gods116  would123  decree31  reasonable38  covenant44  wickedness52  shall93  us78  things90  punishment36  yet83  tis41  come66  upon80  see65  therefore70  grace42  eternal46  infinitely38  adam27  guilty35  show40  worship29  sins42  thing61  divine39  dont29  men62  righteousness29  purity21  way51  commands25  known34  man59  done40  presence31  use35  attend24  let40  spirit39  nature42  evil34  means31  consciences19  filthiness18  choice21  impossible23  filthy18  unto32  justice17  though44  great58  decrees13  obliged19  sinful28  soul39  make48  allow25  justly23  attendance19  much52  impure16  contrary29  favor22  respect33  pretend19  authority20  glory30  time45  purify11  filth15  contend11  hearts31  good37  spiritual27  nothing25  certain20  live34  lord26  less23  praise16  say27  permitting8  salvation21  appointed19  thus35  unreasonable19  ordinance12  may45  sacred15  acts23  name22  day28  reasonably16 
+Cluster 4 words: god(540)  ordinances(102)  sin(189)  pure(68)  holy(101)  heart(102)  gods(116)  would(123)  decree(31)  reasonable(38)  covenant(44)  wickedness(52)  shall(93)  us(78)  things(90)  punishment(36)  yet(83)  tis(41)  come(66)  upon(80)  see(65)  therefore(70)  grace(42)  eternal(46)  infinitely(38)  adam(27)  guilty(35)  show(40)  worship(29)  sins(42)  thing(61)  divine(39)  dont(29)  men(62)  righteousness(29)  purity(21)  way(51)  commands(25)  known(34)  man(59)  done(40)  presence(31)  use(35)  attend(24)  let(40)  spirit(39)  nature(42)  evil(34)  means(31)  consciences(19)  filthiness(18)  choice(21)  impossible(23)  filthy(18)  unto(32)  justice(17)  though(44)  great(58)  decrees(13)  obliged(19)  sinful(28)  soul(39)  make(48)  allow(25)  justly(23)  attendance(19)  much(52)  impure(16)  contrary(29)  favor(22)  respect(33)  pretend(19)  authority(20)  glory(30)  time(45)  purify(11)  filth(15)  contend(11)  hearts(31)  good(37)  spiritual(27)  nothing(25)  certain(20)  live(34)  lord(26)  less(23)  praise(16)  say(27)  permitting(8)  salvation(21)  appointed(19)  thus(35)  unreasonable(19)  ordinance(12)  may(45)  sacred(15)  acts(23)  name(22)  day(28)  reasonably(16) 
 
 
-Cluster 0
-christagony forgiveness10000
-   Cluster 0 part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 part 8 part 9 part 10 part 11 part 12 part 13 part 14 part 15 
-   Cluster 1 
-   Cluster 2 
-   Cluster 3 
-   Cluster 4 
-wickedmeninhell sinners7778
-   Cluster 0 part 0 part 1 part 2 part 3 part 4 part 5 part 8 
-   Cluster 1 part 6 part 7 
-   Cluster 2 
-   Cluster 3 
-   Cluster 4 
-sinnersangrygod sinners10000
-   Cluster 0 part 0 part 1 part 2 part 3 part 4 part 5 part 6 
-   Cluster 1 
-   Cluster 2 
-   Cluster 3 
-   Cluster 4 
-awfuljudgment community10000
-   Cluster 0 part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 
-   Cluster 1 
-   Cluster 2 
-   Cluster 3 
-   Cluster 4 
-supernaturallight theology10000
-   Cluster 0 part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 
-   Cluster 1 
-   Cluster 2 
-   Cluster 3 
-   Cluster 4 
-pardonforgreatestsinners forgiveness10000
-   Cluster 0 part 0 part 1 part 2 part 3 
-   Cluster 1 
-   Cluster 2 
-   Cluster 3 
-   Cluster 4 
+[Cluster 0]
+	christ_agony (forgiveness)(100.00%)
+	  - Cluster 0: [part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 part 8 part 9 part 10 part 11 part 12 part 13 part 14 part 15 ]
+	  - Cluster 1: []
+	  - Cluster 2: []
+	  - Cluster 3: []
+	  - Cluster 4: []
+	wicked_men_in_hell (sinners)(77.78%)
+	  - Cluster 0: [part 0 part 1 part 2 part 3 part 4 part 5 part 8 ]
+	  - Cluster 1: [part 6 part 7 ]
+	  - Cluster 2: []
+	  - Cluster 3: []
+	  - Cluster 4: []
+	sinners_angry_god (sinners)(100.00%)
+	  - Cluster 0: [part 0 part 1 part 2 part 3 part 4 part 5 part 6 ]
+	  - Cluster 1: []
+	  - Cluster 2: []
+	  - Cluster 3: []
+	  - Cluster 4: []
+	awful_judgment (community)(100.00%)
+	  - Cluster 0: [part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 ]
+	  - Cluster 1: []
+	  - Cluster 2: []
+	  - Cluster 3: []
+	  - Cluster 4: []
+	supernatural_light (theology)(100.00%)
+	  - Cluster 0: [part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 ]
+	  - Cluster 1: []
+	  - Cluster 2: []
+	  - Cluster 3: []
+	  - Cluster 4: []
+	pardon_for_greatest_sinners (forgiveness)(100.00%)
+	  - Cluster 0: [part 0 part 1 part 2 part 3 ]
+	  - Cluster 1: []
+	  - Cluster 2: []
+	  - Cluster 3: []
+	  - Cluster 4: []
 
-  average 9630
+ > average: 96.30%
 
-Cluster 1
-christiancautions theology10000
-   Cluster 1 part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 part 8 part 9 part 10 part 11 part 12 part 13 part 14 part 15 part 16 part 17 part 18 part 19 part 20 part 21 part 22 part 23 part 24 
-   Cluster 0 
-   Cluster 2 
-   Cluster 3 
-   Cluster 4 
-vainselfflatteries sinners10000
-   Cluster 1 part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 
-   Cluster 0 
-   Cluster 2 
-   Cluster 3 
-   Cluster 4 
-dishonesty community10000
-   Cluster 1 part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 part 8 part 9 part 10 
-   Cluster 0 
-   Cluster 2 
-   Cluster 3 
-   Cluster 4 
-procrastination community10000
-   Cluster 1 part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 part 8 
-   Cluster 0 
-   Cluster 2 
-   Cluster 3 
-   Cluster 4 
-livingpeaceably community10000
-   Cluster 1 part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 part 8 
-   Cluster 0 
-   Cluster 2 
-   Cluster 3 
-   Cluster 4 
+[Cluster 1]
+	christian_cautions (theology)(100.00%)
+	  - Cluster 1: [part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 part 8 part 9 part 10 part 11 part 12 part 13 part 14 part 15 part 16 part 17 part 18 part 19 part 20 part 21 part 22 part 23 part 24 ]
+	  - Cluster 0: []
+	  - Cluster 2: []
+	  - Cluster 3: []
+	  - Cluster 4: []
+	vain_self_flatteries (sinners)(100.00%)
+	  - Cluster 1: [part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 ]
+	  - Cluster 0: []
+	  - Cluster 2: []
+	  - Cluster 3: []
+	  - Cluster 4: []
+	dishonesty (community)(100.00%)
+	  - Cluster 1: [part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 part 8 part 9 part 10 ]
+	  - Cluster 0: []
+	  - Cluster 2: []
+	  - Cluster 3: []
+	  - Cluster 4: []
+	procrastination (community)(100.00%)
+	  - Cluster 1: [part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 part 8 ]
+	  - Cluster 0: []
+	  - Cluster 2: []
+	  - Cluster 3: []
+	  - Cluster 4: []
+	living_peaceably (community)(100.00%)
+	  - Cluster 1: [part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 part 8 ]
+	  - Cluster 0: []
+	  - Cluster 2: []
+	  - Cluster 3: []
+	  - Cluster 4: []
 
-  average 10000
+ > average: 100.00%
 
-Cluster 2
-pleasantnessreligion theology9000
-   Cluster 2 part 1 part 2 part 3 part 4 part 5 part 6 part 7 part 8 part 9 
-   Cluster 0 part 0 
-   Cluster 1 
-   Cluster 3 
-   Cluster 4 
-valueofsalvation forgiveness7273
-   Cluster 2 part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 
-   Cluster 1 part 8 part 9 part 10 
-   Cluster 0 
-   Cluster 3 
-   Cluster 4 
-christianhappiness theology10000
-   Cluster 2 part 0 part 1 
-   Cluster 0 
-   Cluster 1 
-   Cluster 3 
-   Cluster 4 
+[Cluster 2]
+	pleasantness_religion (theology)(90.00%)
+	  - Cluster 2: [part 1 part 2 part 3 part 4 part 5 part 6 part 7 part 8 part 9 ]
+	  - Cluster 0: [part 0 ]
+	  - Cluster 1: []
+	  - Cluster 3: []
+	  - Cluster 4: []
+	value_of_salvation (forgiveness)(72.73%)
+	  - Cluster 2: [part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 ]
+	  - Cluster 1: [part 8 part 9 part 10 ]
+	  - Cluster 0: []
+	  - Cluster 3: []
+	  - Cluster 4: []
+	christian_happiness (theology)(100.00%)
+	  - Cluster 2: [part 0 part 1 ]
+	  - Cluster 0: []
+	  - Cluster 1: []
+	  - Cluster 3: []
+	  - Cluster 4: []
 
-  average 8758
+ > average: 87.58%
 
-Cluster 3
-heaven saints10000
-   Cluster 3 part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 part 8 part 9 part 10 part 11 
-   Cluster 0 
-   Cluster 1 
-   Cluster 2 
-   Cluster 4 
-manymansions saints10000
-   Cluster 3 part 0 part 1 part 2 part 3 part 4 part 5 
-   Cluster 0 
-   Cluster 1 
-   Cluster 2 
-   Cluster 4 
-truesaints saints7143
-   Cluster 3 part 1 part 2 part 3 part 4 part 5 
-   Cluster 0 part 0 part 6 
-   Cluster 1 
-   Cluster 2 
-   Cluster 4 
+[Cluster 3]
+	heaven (saints)(100.00%)
+	  - Cluster 3: [part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 part 8 part 9 part 10 part 11 ]
+	  - Cluster 0: []
+	  - Cluster 1: []
+	  - Cluster 2: []
+	  - Cluster 4: []
+	many_mansions (saints)(100.00%)
+	  - Cluster 3: [part 0 part 1 part 2 part 3 part 4 part 5 ]
+	  - Cluster 0: []
+	  - Cluster 1: []
+	  - Cluster 2: []
+	  - Cluster 4: []
+	true_saints (saints)(71.43%)
+	  - Cluster 3: [part 1 part 2 part 3 part 4 part 5 ]
+	  - Cluster 0: [part 0 part 6 ]
+	  - Cluster 1: []
+	  - Cluster 2: []
+	  - Cluster 4: []
 
-  average 9048
+ > average: 90.48%
 
-Cluster 4
-mostreasonable forgiveness7200
-   Cluster 4 part 1 part 2 part 3 part 4 part 5 part 6 part 7 part 8 part 9 part 10 part 11 part 15 part 16 part 18 part 19 part 22 part 23 part 24 
-   Cluster 0 part 0 part 12 part 13 
-   Cluster 2 part 17 part 20 part 21 
-   Cluster 1 part 14 
-   Cluster 3 
-warningprofessors sinners10000
-   Cluster 4 part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 part 8 part 9 
-   Cluster 0 
-   Cluster 1 
-   Cluster 2 
-   Cluster 3 
-pureinheart saints3889
-   Cluster 4 part 11 part 12 part 13 part 14 part 15 part 16 part 17 
-   Cluster 2 part 5 part 6 part 7 part 8 part 9 
-   Cluster 0 part 0 part 1 part 2 part 3 
-   Cluster 1 part 10 
-   Cluster 3 part 4 
+[Cluster 4]
+	most_reasonable (forgiveness)(72.00%)
+	  - Cluster 4: [part 1 part 2 part 3 part 4 part 5 part 6 part 7 part 8 part 9 part 10 part 11 part 15 part 16 part 18 part 19 part 22 part 23 part 24 ]
+	  - Cluster 0: [part 0 part 12 part 13 ]
+	  - Cluster 2: [part 17 part 20 part 21 ]
+	  - Cluster 1: [part 14 ]
+	  - Cluster 3: []
+	warning_professors (sinners)(100.00%)
+	  - Cluster 4: [part 0 part 1 part 2 part 3 part 4 part 5 part 6 part 7 part 8 part 9 ]
+	  - Cluster 0: []
+	  - Cluster 1: []
+	  - Cluster 2: []
+	  - Cluster 3: []
+	pure_in_heart (saints)(38.89%)
+	  - Cluster 4: [part 11 part 12 part 13 part 14 part 15 part 16 part 17 ]
+	  - Cluster 2: [part 5 part 6 part 7 part 8 part 9 ]
+	  - Cluster 0: [part 0 part 1 part 2 part 3 ]
+	  - Cluster 1: [part 10 ]
+	  - Cluster 3: [part 4 ]
 
-  average 7030
+ > average: 70.30%
 
